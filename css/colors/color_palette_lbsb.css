@@ -1,0 +1,14 @@
+/*------------------------------------------------------------------
+[Stylesheet]
+Color Palette - #42383c
+
+background_solid    { background: #42383c; }
+-------------------------------------------------------------------*/
+
+.hero_fullscreen.background_solid {
+	background-color: #42383c;
+}
+
+a {
+	color:#795548
+}
